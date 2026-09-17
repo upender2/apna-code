@@ -1,4 +1,4 @@
 # apna-code
-This is my first Git Lab.
+This is my first Github Lab.
 <br>
-Author Upender
+Author = Upender Prajapati
